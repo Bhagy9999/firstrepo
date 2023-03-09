@@ -20,6 +20,15 @@
 
     </properties>
 
+         <distributionManagement>
+            <snapshotRepository>
+                <id>snapshots</id>
+                <name>cbops</name>
+                <url>https://devopskesav.jfrog.io/artifactory/libs-snapshot</url>
+            </snapshotRepository>
+        </distributionManagement>
+    
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
