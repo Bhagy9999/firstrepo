@@ -23,7 +23,7 @@
          <distributionManagement>
             <snapshotRepository>
                 <id>snapshots</id>
-                <name>cbops</name>
+                <name>a0bdlik6tnfce-artifactory-primary-0-snapshots</name>
                 <url>https://devopskesav.jfrog.io/artifactory/libs-snapshot</url>
             </snapshotRepository>
         </distributionManagement>
